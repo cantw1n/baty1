@@ -19,4 +19,4 @@ class MyApp(App):
         self.label.text = f"Счетчик: {self.counter}"
 
 if __name__ == "__main__":
-    MyApp().run()
+        MyApp().run()
